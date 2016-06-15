@@ -1,8 +1,16 @@
+body{
+  margin-bottom: 25%;
+  margin-left:20%;
+  margin-top: 10%
+}
 #tabla{
   display: table;
+  width: 80%;
+  height:100%;
 }
 .fila{
   display: table-row;
+  height: 80%;
 }
 .col{
   display: table-cell;
