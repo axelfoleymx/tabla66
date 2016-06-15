@@ -1,4 +1,4 @@
-.tablagen{
+#tabla{
   display: table;
 }
 .fila{
@@ -7,5 +7,7 @@
 .col{
   display: table-cell;
   padding: 12px;
-  background: #ddd;
+  background: #blue;
+  border: 1px solid #000;
+  vertical-align: middle;
 }
