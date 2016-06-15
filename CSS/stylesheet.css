@@ -28,7 +28,7 @@ body{
 	display: table-cell;
 	padding: 12px;
     background-color: red;
-    border: 1px solid brown;
+    border: 1px solid #E7B247;
     width: 5vw;
     height: 5vw;
 }
