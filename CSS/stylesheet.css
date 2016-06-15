@@ -4,6 +4,12 @@ body{
   margin-top: 5%;
   background-color: #173174
 }
+p{color:white;
+    font-family: "Garamond";
+    font-size: 40px;
+    margin-left: 25%;
+    width: 80%
+	}
 #tabla{
   display: table;
   border: 15px solid white;
