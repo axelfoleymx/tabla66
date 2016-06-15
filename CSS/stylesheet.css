@@ -5,12 +5,12 @@ body{
 }
 #tabla{
   display: table;
-  width: 80%;
-  height:100%;
+  width: 60%;
+
 }
 .fila{
   display: table-row;
-  height: 80%;
+
 }
 .col{
   display: table-cell;
@@ -18,4 +18,17 @@ body{
   background: #blue;
   border: 1px solid #000;
   vertical-align: middle;
+}
+.col-w {
+	display: table-cell;
+    background-color: blue;
+    width: 5vw;
+    height: 5vw;
+}
+
+.col-b {
+	display: table-cell;
+    background-color: greenyellow;
+    width: 5vw;
+    height: 5vw;
 }
