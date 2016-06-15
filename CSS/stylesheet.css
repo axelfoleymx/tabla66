@@ -1,12 +1,12 @@
 body{
-  margin-bottom: 25%;
+ 
   margin-left:30%;
-  margin-top: 12.5%;
-  background-color: black;
+  margin-top: 5%;
+  background-color: #173174
 }
 #tabla{
   display: table;
-  border: 5px solid red;
+  border: 15px solid white;
   width: 40vw;
   height: 40vw;
 
@@ -23,23 +23,19 @@ body{
   display: table-row;
 
 }
-.col{
-  display: table-cell;
-  padding: 12px;
-  background: #blue;
-  border: 1px solid #000;
-  vertical-align: middle;
-}
+
 .col-w {
 	display: table-cell;
-    background-color: blue;
+	padding: 12px;
+    background-color: red;
+    border: 1px solid brown;
     width: 5vw;
     height: 5vw;
 }
 
 .col-b {
 	display: table-cell;
-    background-color: greenyellow;
+    background-color: yellow;
     width: 5vw;
     height: 5vw;
 }
